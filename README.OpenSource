@@ -1,8 +1,8 @@
 [
     {
         "Name": "chromium_third_party_webdriver",                   # 上游开源软件名全称
-        "License": ,         # 上游开源软件中包含的许可证信息
-        "License File": D:\CODE\chromium_third_party_webdriver\log\License.txt   # 许可证所在文件路径
+        "License": "Khronos License",         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE", # 许可证所在文件路径
         "Version Number": "d0045ec570c1a77612db35d1e92f05e1d27b4d53",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/SeleniumHQ/selenium/py.git@d0045ec570c1a77612db35d1e92f05e1d27b4d53",   # 上游软件包发布地址
         "Description": "第三方软件webdriver"           # 开源软件功能描述
