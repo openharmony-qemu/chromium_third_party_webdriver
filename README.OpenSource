@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium:py",                   # 上游开源软件名全称
+        "Name": "chromium:SeleniumHQ/selenium/py",                   # 上游开源软件名全称
         "License": "Khronos License",         # 上游开源软件中包含的许可证信息
         "License File": , # 许可证所在文件路径
         "Version Number": "d0045ec570c1a77612db35d1e92f05e1d27b4d53",
