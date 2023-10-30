@@ -1,10 +1,11 @@
 [
     {
-        "Name": "chromium:SeleniumHQ/selenium/py",                   # 上游开源软件名全称
-        "License": "Khronos License",         # 上游开源软件中包含的许可证信息
-        "License File": , # 许可证所在文件路径
+        "Name": "SeleniumHQ",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
         "Version Number": "d0045ec570c1a77612db35d1e92f05e1d27b4d53",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/SeleniumHQ/selenium/py.git@d0045ec570c1a77612db35d1e92f05e1d27b4d53",   # 上游软件包发布地址
-        "Description": "第三方软件webdriver"           # 开源软件功能描述
+        "Owner": "jinchanggang@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/SeleniumHQ/selenium/py.git@d0045ec570c1a77612db35d1e92f05e1d27b4d53",
+        "Description": "第三方软件SeleniumHQ，运行并通过Selenium服务器加载HTML Selenese的套件结果产生Seleniumhq"
     }
 ]
