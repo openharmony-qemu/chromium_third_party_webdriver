@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "SeleniumHQ",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "fc5e7e70c098bfb189a9a74746809ad3c5c34e04",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/SeleniumHQ/selenium/py.git@fc5e7e70c098bfb189a9a74746809ad3c5c34e04",
+        "Description": "第三方软件SeleniumHQ，运行并通过Selenium服务器加载HTML Selenese的套件结果产生Seleniumhq"
+    }
+]
